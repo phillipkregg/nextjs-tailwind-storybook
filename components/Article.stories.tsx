@@ -1,4 +1,4 @@
-import Article from './index';
+import Article from './Article';
 
 const articleMock = {
   id: 3,
